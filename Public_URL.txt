@@ -1,0 +1,2 @@
+The streamlit cloud deployment at:
+https://supplychainriskmanagementandresilienceoptimization-beg3mpxezpu.streamlit.app/
